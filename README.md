@@ -11,6 +11,8 @@ Why is this a github repository???
 
 ## Tools
 * toolbox
-* car Jack
+* car jack
 * drill
+* soldering equipment
+* stud finder
 * pretty much any other tools
